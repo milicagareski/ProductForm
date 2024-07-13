@@ -2,13 +2,13 @@
 
 ## Installation
 
-Follow these steps to set up the backend locally.
+Follow these steps to set up the frontend locally.
 
 ### 1. Clone the repository
 
 ### 2. Run the command npm install
 
-### 3. Run the command npm run dev
+### 3. Run the command npm run dev for starting the app
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
