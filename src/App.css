@@ -4,3 +4,11 @@
   padding: 2rem;
   text-align: center;
 }
+
+body {
+  background-color: pink;
+}
+
+h1 {
+  font-size: 2rem;
+}

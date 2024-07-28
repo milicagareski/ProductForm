@@ -1,18 +1,40 @@
-# React + Vite
+# Product Form App
 
-## Installation
+This is a product form application built using React, Vite, Shopify, and MobX. The application allows users to manage and submit product details efficiently.
 
-Follow these steps to set up the frontend locally.
+## Overview
 
-### 1. Clone the repository
+The Product Form App is designed to integrate with Shopify, providing a seamless experience for managing products. State management is handled using MobX, ensuring a smooth and reactive user interface.
 
-### 2. Run the command npm install
+## Technologies Used
 
-### 3. Run the command npm run dev for starting the app
+- **React**: A JavaScript library for building user interfaces.
+- **Vite**: A fast build tool and development server.
+- **Shopify API**: Integration for managing product data.
+- **MobX**: A state management library for JavaScript applications.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Getting Started
 
-Currently, two official plugins are available:
+To get a local copy of the project up and running, follow these steps:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Prerequisites
+
+Make sure you have Node.js and npm installed.
+
+### Installation
+
+1. **Clone the repository**:
+
+2. **Install dependencies**:
+
+   ```bash
+   npm install
+   ```
+
+### Running the Project
+
+1. **Start the development server**:
+
+   ```bash
+   npm run dev
+   ```
