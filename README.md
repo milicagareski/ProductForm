@@ -12,6 +12,7 @@ The Product Form App is designed to integrate with Shopify, providing a seamless
 - **Vite**: A fast build tool and development server.
 - **Shopify API**: Integration for managing product data.
 - **MobX**: A state management library for JavaScript applications.
+- **Adonis.js**: For the backend.
 
 ## Getting Started
 
